@@ -1,4 +1,4 @@
-package com.appcall.webapi;
+package com.appcall.webapi.greetings;
 
 import java.util.concurrent.atomic.AtomicLong;
 

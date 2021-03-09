@@ -10,7 +10,11 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 @EnableJpaRepositories
-@SpringBootApplication(scanBasePackages = "com.appcall.webapi")
+@SpringBootApplication(
+	scanBasePackages = {
+		"com.appcall.webapi",
+	}
+)
 public class WebapiApplication {
 
 	@Bean

@@ -1,4 +1,4 @@
-package com.appcall.webapi;
+package com.appcall.webapi.customer;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

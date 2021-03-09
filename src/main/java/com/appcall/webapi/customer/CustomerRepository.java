@@ -1,4 +1,4 @@
-package com.appcall.webapi;
+package com.appcall.webapi.customer;
 
 import java.util.List;
 
